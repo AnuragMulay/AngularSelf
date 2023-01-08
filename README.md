@@ -1,0 +1,2 @@
+# AngularSelf
+Self learning AngularJS
